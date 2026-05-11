@@ -1,0 +1,8 @@
+para usar el simulador francotirador seguir estas instrucciones *Ir a la carperta donde esta el archivo
+*En la barra de ubicación del archivo borrar todo colocar cmd enter
+* coloca Python francotirador.py 
+
+
+Si mañana comprás KO y la operación sale bien, podés anotar en ese mismo archivo: "Salió bien, gané el 5%".
+
+Si sale mal, podés revisar: "Ah, el volumen decía que NO estaba confirmado, por eso falló".
